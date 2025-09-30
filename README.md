@@ -125,7 +125,7 @@
 </div>
 
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Buchi-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="Your GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Kinaizer&show_icons=true&theme=tokyonight&hide_border=true" alt="Your GitHub stats" />
 
 ## 🎮 Contribution Pac-Man
 <picture>
